@@ -7,6 +7,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/pra3torian89/codingprojects)
 ![GitHub License](https://img.shields.io/github/license/pra3torian89/codingprojects)
 
+
 </div>
 
 Welcome to my coding journey! This repository is a collection of small-to-medium web development projects I've created as I learn and practice **HTML**, **CSS**, **JavaScript**, and **Node.js**.
