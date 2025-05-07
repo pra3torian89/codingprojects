@@ -15,15 +15,18 @@ Welcome to my coding journey! This repository is a collection of small-to-medium
 All of these projects are based on exercises and challenges from **[freeCodeCamp](https://www.freecodecamp.org/)** and **[W3Schools](https://www.w3schools.com/)**. The goal is to build a solid foundation in full-stack web development through hands-on practice.
 
 ## Contents
-- [About This Repository](#about-this-repository)
-- [Technologies Covered](#technologies-covered)
-- [Project List](#project-list)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Resources](#resources)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Support](#support)
-- [Contact](#contact)
+- [Pra3torian89's Web Development Learning Projects](#pra3torian89s-web-development-learning-projects)
+  - [Contents](#contents)
+  - [About This Repository](#about-this-repository)
+  - [Technologies Covered](#technologies-covered)
+  - [Project List](#project-list)
+  - [How to Use This Repository](#how-to-use-this-repository)
+  - [Resources](#resources)
+  - [License](#license)
+  - [Currently Learning](#currently-learning)
+  - [Acknowledgements](#acknowledgements)
+  - [Support](#support)
+  - [Contact](#contact)
 
 ## About This Repository
 
@@ -69,16 +72,19 @@ This repository is licensed under the **GNU General Public License v3.0**.
 
 You are free to use, modify, and distribute this code under the terms of the GPL-3.0 license. See the [LICENSE](license) file for more details.
  
+ ## Currently Learning
+ <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></p>
+ 
  ## Acknowledgements
 
 - First and foremost, I want to acknowledge and thank my **wife [TheGamingPanda](https://github.com/Alyrw11)** for all of her support, even when I jump back and forth between learning new skills and hobbies.
 - **freeCodeCamp.org** and **W3Schools.com** – for providing free, accessible, and high-quality learning resources that make education possible for everyone.
 - **The developer community on GitHub and Stack Overflow** – for sharing knowledge so generously and helping me solve problems I couldn’t tackle alone.
 
-## Support 🍻
+## Support
 <br>
 <div align="center">
-<a href="https://www.buymeacoffee.com/KingItchy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/KingItchy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
 
 ## Contact
