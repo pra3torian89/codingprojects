@@ -44,7 +44,11 @@ This is a **learning-first** repository — some code may not be production-grad
 ## Project List
 
 Each folder in this repository contains one or more related projects. Highlights include:
-- Cat Photo App (coming soon)
+- [Cat Photo App](catphotoapp)
+- [Recipe Page](beefstroganoff)
+- [Travel Agency Page](wanderlux)
+- [Cat Blog Page](cat-blog-page)
+- [Event Page](cod-event-page)
 
 ## How to Use This Repository
 
