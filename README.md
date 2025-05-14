@@ -50,6 +50,10 @@ Each folder in this repository contains one or more related projects. Highlights
 - [Cat Blog Page](cat-blog-page)
 - [Gaming Video Page](pra3torian-gaming-page)
 - [Event Page](cod-event-page)
+- [Hotel Feedback Form](hotel-feedback-form)
+- [Clan Application Form](survey-form)
+- [Exam Grades Table](exam-table)
+- [Book Catalog](book-catalog)
 
 ## How to Use This Repository
 
