@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Application form to join the Shark Syndicate Clan.">
+    <meta name="keywords" content="gaming, clan, join, cod, call of duty, warzone">
+    <title>Join Shark Syndicate</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <!--Sharks have 2 penises-->
+    <header>
+      <h1 id="title">Shark Syndicate Clan Application</h1>
+      <p id="description">Think you have what it takes to swim with the sharks? Fill out the application form below for your opportunity to hunt with the pack.</p>
+    </header>
+    <main>
+      <form id="survey-form" method="post" action="application.html">
+        <fieldset>
+          <legend>Personal Information</legend>
+          <label for="full-name" id="name-label">Full Name:</label>
+          <input required type="text" id="name" placeholder="Ex. John Doe" />
+          <label for="gamer-tag">Gamer Tag:</label>
+          <input required type="text" id="gamer-tag" placeholder="Gr3atGamer" /> <br>
+          <label for="email" id="email-label">Email:</label>
+          <input required type="email" id="email" placeholder="example@email.com" />
+          <label for="level" id="number-label">CoD Level:</label>
+          <input required type="number" id="number" min="5" max="350"  placeholder="123"/>
+        </fieldset>
+        <fieldset>
+          <legend>Gaming Platform</legend>
+          <label for="platform">Preferred Platform</label>
+          <select name="platform" id="dropdown">
+            <option value="mobile">Mobile</option>
+            <option value="playstation">PlayStation</option>
+            <option value="xbox">Xbox</option>
+            <option value="pc">PC</option>
+          </select>
+        </fieldset>
+        <fieldset>
+          <legend>Preferred Game Modes (Check all that apply):</legend>
+          <label for="mp">Multiplayer</label>
+          <input type="checkbox" id="mp" name="mp" value="mp" />
+          <label for="br">Battle Royale</label>
+          <input type="checkbox" id="br" name="br" value="br" />
+          <label for="rp">Ranked Play</label>
+          <input type="checkbox" id="rp" name="rp" value="rp" />
+          <label for="zombies">Zombies</label>
+          <input type="checkbox" id="zombies" name="zombies" value="zombies" />
+          <label for="custom">Custom Match</label>
+          <input type="checkbox" id="custom" name="custom" value="custom" />
+        </fieldset>
+        <fieldset>
+          <legend>Do you use a mic when you play?</legend>
+          <label for="yes-option">Yes</label>
+          <input type="radio" id="yes-option" name="mic" value="yes"/>
+          <label for="no-option">No</label>
+          <input type="radio" id="no-option" name="mic" value="no"/><br />
+          <label for="discord">Discord username:</label>
+          <input type="text" id="discord" placeholder="@user123" />
+        </fieldset>
+        <fieldset>
+          <legend>Why do you want to join Shark Syndicate?</legend>
+          <label for="why-join"></label>
+          <textarea id="why-join" cols="50" rows="4" placeholder="Type something..."></textarea>
+        </fieldset>
+        <button type="submit" id="submit">Submit Application</button>
+        <button type="reset" id="reset">Reset Form</button>
+      </form>
+    </main>
+    <footer align="center">
+        <p>&copy; 2025 Praetorian Productions. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
