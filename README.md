@@ -48,6 +48,7 @@ Each folder in this repository contains one or more related projects. Highlights
 - [Recipe Page](beefstroganoff)
 - [Travel Agency Page](wanderlux)
 - [Cat Blog Page](cat-blog-page)
+- [Gaming Video Page](pra3torian-gaming-page)
 - [Event Page](cod-event-page)
 
 ## How to Use This Repository
