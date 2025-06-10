@@ -55,6 +55,7 @@ Each folder in this repository contains one or more related projects. Highlights
 - [Exam Grades Table](exam-table)
 - [Book Catalog](book-catalog)
 - [Checkout Page](checkout-page)
+- [Multimedia Player](multimedia-player)
 
 ## How to Use This Repository
 
