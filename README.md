@@ -32,7 +32,7 @@ All of these projects are based on exercises and challenges from **[freeCodeCamp
 
 This repo contains individual projects grouped by technology or concept. Each project includes its own README (where applicable), and is self-contained with its own code, assets, and documentation.
 
-This is a **learning-first** repository — some code may not be production-grade, but each project helps build my understanding of a specific concept or technology.
+This is a **learning-first** repository — some [most] code may not be production-grade, but each project helps build my understanding of a specific concept or technology.
 
 ## Technologies Covered
 
@@ -54,6 +54,7 @@ Each folder in this repository contains one or more related projects. Highlights
 - [Clan Application Form](survey-form)
 - [Exam Grades Table](exam-table)
 - [Book Catalog](book-catalog)
+- [Checkout Page](checkout-page)
 
 ## How to Use This Repository
 
