@@ -44,18 +44,18 @@ This is a **learning-first** repository — some [most] code may not be producti
 ## Project List
 
 Each folder in this repository contains one or more related projects. Highlights include:
-- [Cat Photo App](catphotoapp)
-- [Recipe Page](beefstroganoff)
-- [Travel Agency Page](wanderlux)
-- [Cat Blog Page](cat-blog-page)
-- [Gaming Video Page](pra3torian-gaming-page)
-- [Event Page](cod-event-page)
-- [Hotel Feedback Form](hotel-feedback-form)
-- [Clan Application Form](survey-form)
-- [Exam Grades Table](exam-table)
-- [Book Catalog](book-catalog)
-- [Checkout Page](checkout-page)
-- [Multimedia Player](multimedia-player)
+- [Cat Photo App](html-projects/catphotoapp)
+- [Recipe Page](html-projects/beefstroganoff)
+- [Travel Agency Page](html-projects/wanderlux)
+- [Cat Blog Page](html-projects/cat-blog-page)
+- [Gaming Video Page](html-projects/pra3torian-gaming-page)
+- [Event Page](html-projects/cod-event-page)
+- [Hotel Feedback Form](html-projects/hotel-feedback-form)
+- [Clan Application Form](html-projects/survey-form)
+- [Exam Grades Table](html-projects/exam-table)
+- [Book Catalog](html-projects/book-catalog)
+- [Checkout Page](html-projects/checkout-page)
+- [Multimedia Player](html-projects/multimedia-player)
 
 ## How to Use This Repository
 
